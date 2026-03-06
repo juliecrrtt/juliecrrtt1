@@ -1,10 +1,10 @@
-# Julie - Master Robotics student at EPFL
-
+**Julie - Master Robotics student at EPFL
+**
 
 
 <!---## Liens utiles
 - CV :
 - Portfolio PDF :--->
 
-## Contact
+**Contact**
 - Email : julie.carretti@epfl.ch
