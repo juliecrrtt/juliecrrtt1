@@ -14,7 +14,7 @@ Welcome to my GitHub portfolio! Here, I showcase my academic projects.
 ## Key Projects
 
 ### [Megakaryocyte Detection - EPFL & CHUV](https://github.com/juliecrrtt/MK-project) 
-**Automn 2025**
+**Autumn 2025**<br>
 Developed a **QuPath extension** for automated **detection and analysis of megakaryocytes** in histopathology slides. 
 - Built pipelines using **Cellpose** for deep learning-based cell segmentation.  
 - Implemented **nucleus and osteostructure detection** using **StarDist** and **ANN pixel classifiers**.
@@ -40,6 +40,7 @@ Developed a **CounterResNet model** with **synthetic data augmentation**, achiev
 **Keywords:** `Deep Learning`, `CounterResNet`, `Data Augmentation`, `Image Classification`, `PyTorch`, `Pattern Recognition`
 
 ### [Thymio Robot (EKF Localization) - EPFL](#)  
+**Autumn 2025**<br>
 Estimated the **position of a Thymio robot** using an **Extended Kalman Filter (EKF)** with or without camera measurements. Tested performance across multiple trajectories, speeds, and angular velocities derived from wheel encoders to evaluate **localization accuracy**.  
 
 **Keywords:** `Thymio`, `EKF`, `Robot Localization`, `Mobile Robotics`, `Sensor Fusion`, `Python`, `SLAM`, `Trajectory Analysis`
@@ -51,6 +52,6 @@ Estimated the **position of a Thymio robot** using an **Extended Kalman Filter (
 
 ---
 
-## 📫 Contact
+## Contact
 - [LinkedIn](https://www.linkedin.com/in/julie-carretti-b6a575331)  
 - Email: julie.carretti@epfl.ch  
